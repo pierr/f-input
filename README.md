@@ -4,16 +4,18 @@ This component is the defaut Focus input component and is _elementary_
 
 ## Use case
 
-###  context
 
 This component is used in order to build
 
-### [ui](https://pierr.github.io/f-input/)
+## [ui](https://pierr.github.io/f-input/)
 
-- rendu par défaut
-- Erreurs
-- Aide
-- Feedback
+### rendu par défaut
+
+### Erreurs
+
+### Aide
+
+### Feedback
 
 
 ## Configuration
