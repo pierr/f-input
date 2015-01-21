@@ -30,5 +30,6 @@ Event         | Description
 ```
 
 ## [Demo](https://pierr.github.io/f-input/)
+![Input](http://images.ientrymail.com/webpronews/article_pics/html-speech-input.jpg)
 
 
