@@ -3,14 +3,24 @@ Focus input component.
 
 ## Type
 
+## Demo
 
 ## Attributes
 
-## Events
- 
-### In
+Attribute     | Options     | Default      | Description
+---           | ---         | ---          | ---
+`foo`         | *string*    | `bar`        | Lorem ipsum dolor.
 
-### Out
+## Methods
+
+Method        | Parameters   | Returns     | Description
+---           | ---          | ---         | ---
+`unicorn()`   | None.        | Nothing.    | Magic stuff appears.
+
+## Events
+Event         | Description
+---           | ---
+`onsomething` | Triggers when something happens.
 
 ## Use case
 
