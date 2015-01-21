@@ -1,8 +1,6 @@
 # f-input
-Focus input component _Elementary_
 
-
-
+This component is the defaut Focus input component and is _elementary_
 
 ## Demo
 
