@@ -1,5 +1,5 @@
 # f-input
-# Focus input component __Elementary__
+Focus input component _Elementary_
 
 
 
