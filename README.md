@@ -6,9 +6,9 @@ This component is the defaut Focus input component and is _elementary_
 
 ## Attributes
 
-Attribute     | Options     | Default      | Description
----           | ---         | ---          | ---
-`foo`         | *string*    | `bar`        | Lorem ipsum dolor.
+Attribute     | Options     | Possible      | Default      | Description
+---           | ---         | ---           | ---          | ---
+`foo`         | *string*    | `bar`, 'hello'| `bar`        | Lorem ipsum dolor.
 
 ## Methods
 
