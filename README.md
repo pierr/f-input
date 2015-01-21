@@ -2,25 +2,33 @@
 
 This component is the defaut Focus input component and is _elementary_
 
-## Demo
+## Use case
+
+This component is used in order to build
 
 ## Attributes
 
-Attribute     | Options     | Possible      | Default      | Description
----           | ---         | ---           | ---          | ---
-`foo`         | *string*    | `bar`, `hello`| `bar`        | Lorem ipsum dolor.
+Attribute     | Options     | Possible               | Default       | Description
+---           | ---         | ---                    | ---           | ---
+`type`        | *string*    | `text`, `date`, `hour` | `text`        | Define the type of input for the rendering.
 
 ## Methods
 
-Method        | Parameters   | Returns     | Description
----           | ---          | ---         | ---
-`unicorn()`   | None.        | Nothing.    | Magic stuff appears.
+Method         | Parameters   | Returns      | Description
+---            | ---          | ---          | ---
+`validate()`   | None.        | *boolean*    | Validate the input content depending on its metadata.
 
 ## Events
+
 Event         | Description
 ---           | ---
-`onsomething` | Triggers when something happens.
-
-## Use case
+`change`      | The input calue changed.
 
 ## Example
+```html
+<input type='date'/>
+```
+
+## [Demo](https://pierr.github.io/f-input/)
+
+
