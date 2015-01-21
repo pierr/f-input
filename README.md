@@ -4,7 +4,18 @@ This component is the defaut Focus input component and is _elementary_
 
 ## Use case
 
+###  context
+
 This component is used in order to build
+
+### [ui](https://pierr.github.io/f-input/)
+
+- rendu par défaut
+- Erreurs
+- Aide
+- Feedback
+
+
 ## Configuration
 
 Domain, metadata
@@ -32,12 +43,6 @@ Event         | Description
 <input type='date'/>
 ```
 
-## [ui](https://pierr.github.io/f-input/)
-
-- rendu par défaut
-- Erreurs
-- Aide
-- Feedback
 
 ## Test
 
