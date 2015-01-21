@@ -5,6 +5,9 @@ This component is the defaut Focus input component and is _elementary_
 ## Use case
 
 This component is used in order to build
+## Configuration
+
+Domain, metadata
 
 ## Attributes
 
