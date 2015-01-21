@@ -32,7 +32,16 @@ Event         | Description
 <input type='date'/>
 ```
 
-## [Demo](https://pierr.github.io/f-input/)
+## [ui](https://pierr.github.io/f-input/)
+
+- rendu par défaut
+- Erreurs
+- Aide
+- Feedback
+
+## Test
+
+## Demo
 ![Input](http://images.ientrymail.com/webpronews/article_pics/html-speech-input.jpg)
 
 
