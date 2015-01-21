@@ -1,7 +1,8 @@
 # f-input
-Focus input component.
+# Focus input component __Elementary__
 
-## Type
+
+
 
 ## Demo
 
