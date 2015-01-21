@@ -8,7 +8,7 @@ This component is the defaut Focus input component and is _elementary_
 
 Attribute     | Options     | Possible      | Default      | Description
 ---           | ---         | ---           | ---          | ---
-`foo`         | *string*    | `bar`, 'hello'| `bar`        | Lorem ipsum dolor.
+`foo`         | *string*    | `bar`, `hello`| `bar`        | Lorem ipsum dolor.
 
 ## Methods
 
