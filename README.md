@@ -7,20 +7,28 @@ This component is the defaut Focus input component and is _elementary_
 
 This component is used in order to build
 
-## [ui](https://pierr.github.io/f-input/)
+## UI
 
-### rendu par défaut
+### default rendering
 
-### Erreurs
+- Is there unit, tooltip, ...
 
-### Aide
+### errors
 
-### Feedback
+- If the component manages errors, how are they displayed.
 
+### help
+
+- Does the component deals with help.
+
+### feedback
+
+- What feedback is given to the user when he intecacts with the component.
 
 ## Configuration
 
-Domain, metadata
+The configuration is processed by the component reading the metadata from the data-binding and the attributes from the component.
+The metadata are in the domain.
 
 ## Attributes
 
@@ -30,11 +38,15 @@ Attribute     | Options     | Possible               | Default       | Descripti
 
 ## Methods
 
+If the component exposes methods in order to be able to interact with it.
+
 Method         | Parameters   | Returns      | Description
 ---            | ---          | ---          | ---
 `validate()`   | None.        | *boolean*    | Validate the input content depending on its metadata.
 
 ## Events
+
+Which events are triggered by the user.
 
 Event         | Description
 ---           | ---
