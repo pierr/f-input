@@ -43,6 +43,7 @@ If the component exposes methods in order to be able to interact with it.
 Method         | Parameters   | Returns      | Description
 ---            | ---          | ---          | ---
 `validate()`   | None.        | *boolean*    | Validate the input content depending on its metadata.
+`getValue()`   | None.        | *object*     | get the input's depending on its metadata.
 
 ## Events
 
@@ -62,5 +63,4 @@ Event         | Description
 
 ## Demo
 ![Input](http://images.ientrymail.com/webpronews/article_pics/html-speech-input.jpg)
-
 
