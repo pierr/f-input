@@ -1,31 +1,53 @@
-# f-input
+![alt](/content/images/2015/02/input_recherche.png)
 
-This component is the defaut Focus input component and is _elementary_
+Ce composant est un _composant élémentaire_ de _Focus_.
 
-## Use case
+#Interface
+## Cas d'usage
+Ce composant peut être utilisé dans les cas suivants :
+
+- Recherche rapide
+- Recherche contuextualisée
 
 
-This component is used in order to build
+## Maquettes
+###### recherche par défaut
+![alt](/content/images/2015/02/input_recherche3.png)
 
-## UI
+###### Recherche contextualisée
+![alt](/content/images/2015/02/input_recherche.png)
+![alt](/content/images/2015/02/input_recherche2.png)
+![alt](/content/images/2015/02/input_recherche4-1.png)
 
-### default rendering
+## Interactions
 
-- Is there unit, tooltip, ...
+### Erreurs
 
-### errors
+Le composant ne lève pas d'erreur : 
 
-- If the component manages errors, how are they displayed.
+- La saisie est libre. 
+- Le choix du contexte est libre.
 
-### help
 
-- Does the component deals with help.
+### Aide
 
-### feedback
+Si un contexte de recherche est définissable, une aide textuelle est affichée sous le composant pour guider l'utilisateur.
 
-- What feedback is given to the user when he intecacts with the component.
+![alt](/content/images/2015/02/scope.png)
 
-## Configuration
+
+### Feedback
+
+- Le contexte de recherche est sélectionné est affiché à gauche du champ de saisie.
+- Lorsqu'une recherche est lancée par le composant, un spinner est affiché dans le champ de recherche, sur la droite.
+- Lorsqu'aucun texte de recherche n'est défini, le composant affiche du texte qui indique à l'utilisateur ce qu'il peut saisir.
+
+## Inspiration
+
+[Linkedin](http://www.linkedin.com)
+![alt](/content/images/2015/02/linkedin.png)
+
+## Technical Configuration
 
 The configuration is processed by the component reading the metadata from the data-binding and the attributes from the component.
 The metadata are in the domain.
