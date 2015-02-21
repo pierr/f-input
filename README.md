@@ -35,8 +35,12 @@ Si un contexte de recherche est définissable, une aide textuelle est affichée 
 
 ![alt](/content/images/2015/02/scope.png)
 
+## Structure
+- title
+- block (son)
+- help
 
-### Feedback
+## Feedback
 
 - Le contexte de recherche est sélectionné est affiché à gauche du champ de saisie.
 - Lorsqu'une recherche est lancée par le composant, un spinner est affiché dans le champ de recherche, sur la droite.
