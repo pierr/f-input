@@ -39,7 +39,7 @@ Si un contexte de recherche est définissable, une aide textuelle est affichée 
 - title
 - block (son)
 - help
-
+- error
 ## Feedback
 
 - Le contexte de recherche est sélectionné est affiché à gauche du champ de saisie.
