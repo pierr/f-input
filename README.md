@@ -1,6 +1,6 @@
 ![alt](/content/images/2015/02/input_recherche.png)
 
-Ce composant est un _composant élémentaire_ de _Focus_.
+Ce composant est un _composant élémentaire_ de _Focus_. 
 
 #Interface
 ## Cas d'usage
