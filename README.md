@@ -6,7 +6,7 @@ Ce composant est un _composant élémentaire_ de _Focus_.
 ## Cas d'usage
 Ce composant peut être utilisé dans les cas suivants :
 
-- Recherche rapide
+- Recherche rapide 
 - Recherche contuextualisée
 
 
