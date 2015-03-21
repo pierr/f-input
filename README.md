@@ -7,7 +7,7 @@ Ce composant est un _composant élémentaire_ de _Focus_.
 Ce composant peut être utilisé dans les cas suivants :
 
 - Recherche rapide 
-- Recherche contuextualisée
+- Recherche contuextualisée 
 
 
 ## Maquettes
@@ -23,9 +23,9 @@ Ce composant peut être utilisé dans les cas suivants :
 
 ### Erreurs
 
-Le composant ne lève pas d'erreur : 
+Le composant ne lève pas d'erreur: 
 
-- La saisie est libre. 
+- La saisie est libre
 - Le choix du contexte est libre.
 
 
