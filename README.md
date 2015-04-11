@@ -8,6 +8,7 @@ Ce composant peut être utilisé dans les cas suivants :
 
 - Recherche rapide 
 - Recherche contuextualisée 
+- ...
 
 
 ## Maquettes
